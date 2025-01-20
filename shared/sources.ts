@@ -92,7 +92,7 @@ export const originSources = {
   },
   "butian": {
     name:"补天社区",
-    type:"realtime",
+    type:"hottest",
     color: "blue",
     column:"china",
     home:"https://forum.butian.net/",
