@@ -15,7 +15,7 @@ export default defineSource(async () => {
 
         if (url && title) {
             news.push({
-                url: baseURL + url, // 拼接完整的URL
+                url: url, // 拼接完整的URL
                 title,
                 id: url, // 使用URL作为唯一ID
                 extra: {
