@@ -283,7 +283,7 @@ export const originSources = {
     home: "https://www.baidu.com",
   },
   "freebuf": {
-    name:"freebuff安全",
+    name:"freebuf安全",
     column: "china",
     color: "blue",
     type:"hottest",
